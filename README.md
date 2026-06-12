@@ -31,23 +31,23 @@ class Abhishek:
     name       = "Abhishek Chamlagain"
     location   = "Kathmandu, Nepal 🇳🇵"
     college    = "Padmashree College, Tinkune"
-    degree     = "BIT (Hons) — Final Year"
+    degree     = "BIT (Hons) - Final Year"
     
     focus      = ["AI & ML", "Data Science", "NLP"]
     learning   = ["Ethical Hacking", "Big Data"]
     hobbies    = ["Building chatbots", "Data visualization"]
     
     current    = "Building a Hybrid NLP Chatbot for my FYP 🤖"
-    motto      = "Data is the new oil — and I'm here to refine it."
+    motto      = "Data is the new oil and I'm here to refine it."
 ```
 
 <br clear="right"/>
 
 ---
 
-### 🚀 Final Year Project — College Info Chatbot
+### 🚀 Final Year Project - College Info Chatbot
 
-> **Padmashree College Chatbot** — A hybrid NLP chatbot combining Rule-Based logic + Multinomial Naive Bayes + TF-IDF
+> **Padmashree College Chatbot** - A hybrid NLP chatbot combining Rule-Based logic + Multinomial Naive Bayes + TF-IDF
 
 <div align="center">
 
@@ -104,7 +104,7 @@ class Abhishek:
   <tr>
     <td width="50%">
       <h3 align="center">🤖 College Info Chatbot (FYP)</h3>
-      <p align="center">Hybrid NLP chatbot — Rule-Based + Naive Bayes + TF-IDF. Handles 90 intents, 45K+ training samples, supports English & Romanized Nepali.</p>
+      <p align="center">Hybrid NLP chatbot - Rule-Based + Naive Bayes + TF-IDF. Handles 90 intents, 45K+ training samples, supports English & Romanized Nepali.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -113,7 +113,7 @@ class Abhishek:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛒 Big Data Analytics — Superstore</h3>
+      <h3 align="center">🛒 Big Data Analytics - Superstore</h3>
       <p align="center">End-to-end sales data analysis on the Kaggle Superstore dataset. Data cleaning, feature engineering, and interactive Power BI dashboard for business insights.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -134,7 +134,7 @@ class Abhishek:
     </td>
     <td width="50%">
       <h3 align="center">📐 Math Concepts for AI/ML</h3>
-      <p align="center">Jupyter notebooks covering core mathematics for AI and Data Science — Probability, Linear Algebra, Statistics, and Calculus with hands-on Python examples.</p>
+      <p align="center">Jupyter notebooks covering core mathematics for AI and Data Science - Probability, Linear Algebra, Statistics, and Calculus with hands-on Python examples.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
