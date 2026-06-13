@@ -124,8 +124,8 @@ class Abhishek:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📡 Network Packet Classifier</h3>
-      <p align="center">ML model to classify network traffic intents from Wireshark packet captures. Includes Naive Bayes classifier and a model evaluation dashboard.</p>
+      <h3 align="center">📡 Network Packet Data Visualization</h3>
+      <p align="center">Analyzed and visualized network packet data captured via Wireshark. Used Python (Pandas, Matplotlib, Seaborn) to clean the data and build visual dashboards exploring traffic patterns, protocol distribution, and packet behavior.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
